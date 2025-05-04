@@ -14,7 +14,7 @@ export const SITE = {
   editPost: {
     enabled: true,
     text: "Suggest Changes",
-    url: "https://github.com/pearxs/pearxs.github.io/edit/main/",
+    url: "https://github.com/pearxs/pearxs.github.io/edit/master/",
   },
   dynamicOgImage: true,
   lang: "zh-CN", // html lang code. Set this empty and default will be "en"
