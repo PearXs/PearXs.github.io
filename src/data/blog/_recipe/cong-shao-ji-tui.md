@@ -7,6 +7,7 @@ featured: false
 draft: false
 tags:
   - 菜谱
+  - 鸡
   - 鸡腿
   - 大葱
   - 小葱
